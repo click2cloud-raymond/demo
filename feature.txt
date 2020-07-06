@@ -1,0 +1,3 @@
+Getting to Know HUAWEI CLOUD
+Everyone's talking about cloud computing, but do you understand how it really works? Maybe you want to use HUAWEI CLOUD services but don't know where to start. 
+This course will discuss the various services on HUAWEI CLOUD and help you start your cloud journey.
